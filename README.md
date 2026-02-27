@@ -1,0 +1,1 @@
+This repository contains the implementation and analysis of the Orthogonal Matching Pursuit (OMP) algorithm for recovering sparse signals, specifically applied to synthetic data and audio reconstruction.
